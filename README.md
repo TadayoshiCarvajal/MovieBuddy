@@ -1,2 +1,2 @@
 # MovieBuddy
-An application designed to assist Vloggers with editing their videos. 
+An application designed to assist Content Creators with editing their videos. 
